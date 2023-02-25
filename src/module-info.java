@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author cassi
+ *
+ */
+module ExercicioJavaException {
+}
